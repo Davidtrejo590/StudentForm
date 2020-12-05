@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">StudentForm</string>
+    <string name="hintName">Nombre Completo</string>
+    <string name="hintNum">Número de Cuenta</string>
+    <string name="hintDate">Fecha de Nacimiento</string>
+    <string name="btnValidate">Ingresar</string>
+    <string name="nameError">Se requiere Nombre</string>
+    <string name="nameFullError">Nombre Incompleto</string>
+    <string name="numError">9 Dígitos</string>
+    <string name="dateError">Se requiere una Fecha</string>
+    <string name="dateInvalidError">Fecha Inválida</string>
+    <string name="age">\ años</string>
+    <string name="welcomeMsg">Bienvenido a FI UNAM \</string>
+
+    <string name="engAero">Ingeniería Aeroespacial</string>
+    <string name="engCiv">Ingeniería Civil</string>
+    <string name="engGeo">Ingeniería Geomática</string>
+    <string name="engEnv">Ingeniería Ambiental</string>
+    <string name="engGeoph">Ingeniería Geofísica</string>
+    <string name="engGeol">Ingeniería Geológica</string>
+    <string name="engPet">Ingeniería Petrolera</string>
+    <string name="engMin">Ingeniería de Minas y Metalurgia</string>
+    <string name="engCom">Ingeniería en Computación</string>
+    <string name="engElec">Ingeniería Eléctrica Electrónica</string>
+    <string name="engTel">Ingeniería en Telecomunicaciones</string>
+    <string name="engMech">Ingeniería Mecánica</string>
+    <string name="engInd">Ingeniería Industrial</string>
+    <string name="engMecha">Ingeniería Mecatrónica</string>
+    <string name="engBio">Ingeniería en Sistemas Biomédicos</string>
+
+    <string-array name="careers">
+        <item>@string/engAero</item>
+        <item>@string/engCiv</item>
+        <item>@string/engGeo</item>
+        <item>@string/engEnv</item>
+        <item>@string/engGeoph</item>
+        <item>@string/engGeol</item>
+        <item>@string/engPet</item>
+        <item>@string/engMin</item>
+        <item>@string/engCom</item>
+        <item>@string/engElec</item>
+        <item>@string/engTel</item>
+        <item>@string/engMech</item>
+        <item>@string/engInd</item>
+        <item>@string/engMecha</item>
+        <item>@string/engBio</item>
+    </string-array>
+
+
+</resources>

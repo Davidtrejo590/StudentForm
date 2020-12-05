@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentForm</string>
+    <string name="hintName">Full Name</string>
+    <string name="hintNum">Number Id</string>
+    <string name="hintDate">BirthDate</string>
+    <string name="btnValidate">Log In</string>
+    <string name="nameError">Name is Required</string>
+    <string name="nameFullError">Full Name</string>
+    <string name="numError">Number must be of 9 digits</string>
+    <string name="dateError">Date is Required</string>
+    <string name="dateInvalidError">Invalid Date</string>
+    <string name="age">\ years</string>
+    <string name="welcomeMsg">Welcome to FI UNAM \</string>
+    <string name="engAero">Aerospace Engineering</string>
+    <string name="engCiv">" Civil Engineering"</string>
+    <string name="engGeo">Geomatics Engineering</string>
+    <string name="engEnv">"Environmental engineering  "</string>
+    <string name="engGeoph">Geophysical Engineering</string>
+    <string name="engGeol">Geological Engineering</string>
+    <string name="engPet">Petroleum Engineering</string>
+    <string name="engMin">Mining and Metallurgy Engineering</string>
+    <string name="engCom">Computer Engineering</string>
+    <string name="engElec">Electronic Electrical Engineering</string>
+    <string name="engTel">"Telecommunications Engineering  "</string>
+    <string name="engMech">"Mechanical Engineering  "</string>
+    <string name="engInd">Industrial Engineering</string>
+    <string name="engMecha">"Mechatronics Engineering "</string>
+    <string name="engBio">Biomedical Systems Engineering</string>
+</resources>
